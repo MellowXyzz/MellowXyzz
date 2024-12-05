@@ -1,4 +1,4 @@
-<h4 align="left">Hello! My name is Elo Presil Berfa👋, and I am a Software Developer💻. I am very enthusiastic about technology 🚀 and always strive to learn new things and share knowledge with others 🤝.</h4>
+<p align="left">Hello! My name is Elo Presil Berfa👋, and I am a Software Developer💻. I am very enthusiastic about technology 🚀 and always strive to learn new things and share knowledge with others 🤝.</p>
 
 ###
 
@@ -7,10 +7,6 @@
   <img src="https://streak-stats.demolab.com?user=MellowXyzz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MellowXyzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -36,6 +32,10 @@
 
 ###
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
 <div align="left">
   <a href="https://www.instagram.com/elopresilberfa_?igsh=MWIzMDYxMnFweDZ4dg==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -56,5 +56,13 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/MellowXyzz/MellowXyzz/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Mellowxyz__">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Mellowxyz__&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
